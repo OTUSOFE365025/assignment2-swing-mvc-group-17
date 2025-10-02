@@ -3,5 +3,5 @@ Example of an MVC design based on Swing. Answer questions 1 & 2 in this README f
 
 
 
-Question 4: Sequence Diagram of a button press:
+Question 4: Sequence Diagram of a button press
 <img width="1315" height="765" alt="image" src="https://github.com/user-attachments/assets/9dd019de-57bc-4082-b17e-40f73fbbd50e" />
